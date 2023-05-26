@@ -20,13 +20,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf764bf-b16a-4fe8-8f79-fb92146bc782" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/pojo/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/service/ShardingAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_encrypt_core_api_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_encrypt_core_common_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_encrypt_core_merge_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_encrypt_core_rewrite_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_master_slave_core_route_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shadow_core_rewrite_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_api_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_common_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_execute_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_merge_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_rewrite_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_core_route_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_jdbc_core_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_sharding_transaction_core_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_common_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_executor_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_merge_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_pluggable_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_rewrite_engine_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_route_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_spi_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_binder_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_engine_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_mysql_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_oracle_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_postgresql_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_spi_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_sql92_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_sqlserver_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shardingsphere_shardingsphere_sql_parser_statement_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_indy_2_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel-easypoi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/excel-easypoi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/pojo/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/service/ShardingAop.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/service/WriteExcelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zgy/learn/easypoi/service/WriteExcelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../upload-download/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-download/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../upload-download/src/main/java/com/zgy/learn/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-download/src/main/java/com/zgy/learn/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/EasyPoiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/config/ParserConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/controller/read/ReadExcelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/controller/write/WriteExcelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/pojo/ContentType$TypeConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/pojo/ContentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/pojo/PrimaryStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/ParserFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zgy/learn/easypoi/service/WriteExcelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demoData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/postman给后端传入List参数.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/postman给后端传入List参数2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zgy/learn/easypoi/EasyPoiApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +112,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -65,10 +139,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ape frame/ape-frame" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Spring Boot.EasyPoiApplication">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -116,6 +191,10 @@
       <workItem from="1682171886069" duration="4712000" />
       <workItem from="1684754050555" duration="4279000" />
       <workItem from="1685105638816" duration="298000" />
+      <workItem from="1685105953248" duration="401000" />
+      <workItem from="1685106371711" duration="726000" />
+      <workItem from="1685107115246" duration="87000" />
+      <workItem from="1685107215675" duration="299000" />
     </task>
     <servers />
   </component>
@@ -135,6 +214,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1685106798741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1685106798741" />
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1681659812670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -143,66 +226,78 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="458" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1682175883485" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1685106700308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1685106700308" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1680931665908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1680931665908" />
-    <state width="1492" height="294" key="GridCell.Tab.0.bottom" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.0.bottom" timestamp="1685107523724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.0.center" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1685107523724" />
+    <state width="1492" height="98" key="GridCell.Tab.0.center" timestamp="1685107523724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.0.left" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1685107523724" />
+    <state width="1492" height="98" key="GridCell.Tab.0.left" timestamp="1685107523724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.0.right" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1685107523724" />
+    <state width="1492" height="98" key="GridCell.Tab.0.right" timestamp="1685107523724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.1.bottom" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1685107523724" />
+    <state width="1492" height="98" key="GridCell.Tab.1.bottom" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.1.center" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.1.center" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.1.left" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.1.left" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.1.right" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.1.right" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.2.bottom" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.2.bottom" timestamp="1685107523522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.2.center" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1685107523522" />
+    <state width="1492" height="98" key="GridCell.Tab.2.center" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.2.left" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.2.left" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
-    <state width="1492" height="294" key="GridCell.Tab.2.right" timestamp="1684754144767">
+    <state width="1492" height="98" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
+    <state width="1492" height="98" key="GridCell.Tab.2.right" timestamp="1685107523521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="294" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1684754144767" />
+    <state width="1492" height="98" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1685107523521" />
     <state x="475" y="114" key="RollbackChangesDialog" timestamp="1684754130490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="475" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1684754130490" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1684757593131">
+    <state x="270" y="57" key="SettingsEditor" timestamp="1685107130773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1684757593131" />
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1685107130773" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1685106703269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1685106703269" />
+    <state x="501" y="124" key="git4idea.branch.GitSmartOperationDialog" timestamp="1685106701287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="124" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1685106701287" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

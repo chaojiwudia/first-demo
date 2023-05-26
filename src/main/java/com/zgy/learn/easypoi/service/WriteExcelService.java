@@ -4,7 +4,6 @@ import cn.afterturn.easypoi.excel.ExcelExportUtil;
 import cn.afterturn.easypoi.excel.entity.ExportParams;
 import com.zgy.learn.easypoi.pojo.PrimaryStudent;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.shardingsphere.api.hint.HintManager;
 import org.springframework.stereotype.Service;
 
 import java.io.FileOutputStream;
